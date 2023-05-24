@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+header{
+	width: 100%;
+	height: 100vh;
+	background-image:url(https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+nav{
+	width: 100%;
+	height: 15vh;
+	background-color: rgba(0, 0, 0, 0.9);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-transform: uppercase;
+
+}
+nav .logo{
+	width: 25%;
+	text-align: center;
+	color: darkcyan;
+	 
+}
+nav .menu{
+	width: 45%;
+	display: flex;
+	justify-content: space-around;
+}
+
+nav .menu a{
+	width: 30%;
+	text-decoration:none ;
+	color: white;
+	font-weight:bold ;
+}
+main{
+	width: 100%;
+	height: 120vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+section h1{
+	font-size: 45px;
+	color: white;
+	font-weight: 600;
+	letter-spacing: 3px;
+	 text-transform: uppercase;
+	 text-shadow: 2px 1px 6px black ;
+}
+section h2{
+
+	 margin: 30px 0 20px 0px;
+	 font-size: 40px;
+	 font-weight: 900;
+	 color: white;
+	 text-shadow: 2px 1px 6px black ;
+
+}
+section .one{
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 500;
+	margin: 0 50px 20px 0;
+	color: white;
+}
+section .two{
+	font-size: 15px;
+	font-style: italic;
+	font-weight: 500;
+	margin: 0 50px 20px 0;
+	color: white;
+}
+section .btone{
+	padding: 12px 40px;
+	border-radius: 4px;
+	outline: none;
+	 text-decoration: none;
+	 font-size: 13px;
+	 font-weight: 500;
+	 letter-spacing: 1px;
+	 margin-top: 40px;
+	color: black;
+	font-weight: bold;
+	  
+
+}
+ 
+section .bttwo{
+	padding: 12px 40px;
+	border-radius: 4px;
+	outline: none;
+	 text-decoration: none;
+	 font-size: 13px;
+	 font-weight: 500;
+	 letter-spacing: 1px;
+	 margin-top: 40px;
+	color: black;
+	font-weight: bold;
+}
+section .btthree{
+	padding: 12px 40px;
+	border-radius: 4px;
+	outline: none;
+	 text-decoration: none;
+	 font-size: 13px;
+	 font-weight: 500;
+	 letter-spacing: 1px;
+	 margin-top: 40px;
+	color: black;
+	font-weight: bold;
+}
+section .btfour{
+	padding: 12px 40px;
+	border-radius: 4px;
+	outline: none;
+	 text-decoration: none;
+	 font-size: 13px;
+	 font-weight: 500;
+	 letter-spacing: 1px;
+	 margin-top: 40px;
+	color: black;
+	font-weight: bold;
+}
+section .btfiv{
+	padding: 12px 40px;
+	border-radius: 4px;
+	outline: none;
+	 text-decoration: none;
+	 font-size: 13px;
+	 font-weight: 500;
+	 letter-spacing: 1px;
+	 margin-top: 40px;
+	color: black;
+	font-weight: bold;
+}
+section .btsix{
+	padding: 12px 40px;
+	border-radius: 4px;
+	outline: none;
+	 text-decoration: none;
+	 font-size: 13px;
+	 font-weight: 500;
+	 letter-spacing: 1px;
+	 margin-top: 40px;
+	color: black;
+	font-weight: bold;
+}
+ 
+nav section p{
+	font-size: 10px;
+	padding: 1px;
+
+}
+footer nav{
+	width: 100%;
+	height: 25vh;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-transform: uppercase;
+}
+footer nav .logo{
+	color: darkcyan;	 
+}
+
+ 
+
+
+
+ 
+ 
+	  
+
+
